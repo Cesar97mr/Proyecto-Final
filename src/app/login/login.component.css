@@ -1,0 +1,21 @@
+.carrusel2
+{
+    margin-bottom: 20px;
+}
+.img{
+    height: 350px;
+    width: 1200px;
+    opacity: 0.8;
+}
+.textocarrousel{
+    font-weight: bold;
+    font-size: x-large;
+}
+.silenole{
+    font-size: 4em;
+}
+#boton{
+    margin-right: 50px;
+    margin-bottom: -90px;
+    margin-top: 50px;
+}
